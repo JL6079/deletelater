@@ -1,2 +1,3 @@
 # deletelater
-- tämän nettisivun tarkoitus on poistaa se myöhemmin
+- tämän nettisivun tarkoitus on poistaa se joskus
+- jl6079
